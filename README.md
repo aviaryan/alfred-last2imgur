@@ -1,12 +1,18 @@
 # Alfred - Last 2 Imgur
 
-Upload last screenshot taken to Imgur. 
-It has options to minify it and later, delete it also.
+<div style="text-align:center">
+<img src="https://github.com/aviaryan/alfred-last2imgur/raw/master/src/icon.png">
+</div>
+
+**Tested with Alfred 3**
+
+This workflow uploads last screenshot that you took, to Imgur. 
+It has options to minify the image and automatically delete the image after upload.
 
 
 ## Installing
 
-Download this workflow file and double click to open it with Alfred.
+Download [Last 2 Imgur workflow file](Last 2 Imgur.alfredworkflow) and double click to open it with Alfred.
 
 ## Using
 
@@ -38,3 +44,8 @@ Minify feature of this workflow uses [ImageOptim](https://imageoptim.com/) (free
 ## Libraries used
 
 * [imgur.sh](https://github.com/tremby/imgur.sh)
+
+
+## Credits
+
+Thanks to [Oskar Hane](http://oskarhane.com/alfred-workflow-upload-most-recent-screenshot-to-imgur/) for the inspiration.
