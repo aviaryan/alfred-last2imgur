@@ -62,3 +62,8 @@ Minify feature of this workflow uses [ImageOptim](https://imageoptim.com/) (free
 
 Thanks to [Oskar Hane](http://oskarhane.com/alfred-workflow-upload-most-recent-screenshot-to-imgur/) for the inspiration. 
 Unfortunately his workflow wasn't working on my system so I decided to create my own, the result is this project.
+
+----
+
+⭐️ [Donate](https://www.paypal.me/aviaryan) ⭐️
+
