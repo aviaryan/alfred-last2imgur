@@ -12,13 +12,20 @@ It has options to minify the image and automatically delete the image after uplo
 
 ## Installing
 
-Download [Last 2 Imgur workflow file](Last 2 Imgur.alfredworkflow) and double click to open it with Alfred.
+Download [Last 2 Imgur workflow file](https://github.com/aviaryan/alfred-last2imgur/raw/master/Last%202%20Imgur.alfredworkflow) and double click to open it with Alfred.
+
 
 ## Using
 
 ```
 last2imgur [options]
 ```
+
+
+## Screenshot
+
+![Screenshot](https://i.imgur.com/FyCSOy5.png)
+
 
 ## Example usage
 
@@ -36,9 +43,12 @@ last2imgur dm
 last2imgur m
 ```
 
+
 ## Minify
 
 Minify feature of this workflow uses [ImageOptim](https://imageoptim.com/) (free) so make sure you have it installed.
+
+**Note** - ImageOptim is slow so if you use `m` option, `last2imgur` will take some time.
 
 
 ## Libraries used
@@ -48,4 +58,5 @@ Minify feature of this workflow uses [ImageOptim](https://imageoptim.com/) (free
 
 ## Credits
 
-Thanks to [Oskar Hane](http://oskarhane.com/alfred-workflow-upload-most-recent-screenshot-to-imgur/) for the inspiration.
+Thanks to [Oskar Hane](http://oskarhane.com/alfred-workflow-upload-most-recent-screenshot-to-imgur/) for the inspiration. 
+Unfortunately his workflow wasn't working on my system so I decided to create my own, the result is this project.
