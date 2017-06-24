@@ -9,6 +9,8 @@
 This workflow uploads last screenshot that you took, to Imgur. 
 It has options to minify the image and automatically delete the image after upload.
 
+After uploading, direct link to image is copied to clipboard.
+
 
 ## Installing
 
