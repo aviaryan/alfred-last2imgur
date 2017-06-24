@@ -1,8 +1,8 @@
 # Alfred - Last 2 Imgur
 
-<div style="text-align:center">
+<p align="center">
 <img src="https://github.com/aviaryan/alfred-last2imgur/raw/master/src/icon.png">
-</div>
+</p>
 
 **Tested with Alfred 3**
 
