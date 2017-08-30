@@ -1,7 +1,6 @@
 #!/bin/bash
 
-USER=$(whoami)
-DIR="/Users/$USER/Desktop"
+DIR=$(defaults read com.apple.screencapture location)
 FILE=$(ls -t "$DIR" | head -n 1)
 
-echo "$DIR/$FILE"
+echo "$DIR$FILE"
