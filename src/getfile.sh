@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DIR=$(defaults read com.apple.screencapture location)
-if [ ! -d "$DIRECTORY" ]; then
+if [ ! -d "$DIR" ]; then
 	USER=$(whoami)
 	DIR="/Users/$USER/Desktop/"
 fi
